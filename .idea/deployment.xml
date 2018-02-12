@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Apache_XAMMP">
+    <serverData>
+      <paths name="Apache_XAMMP">
+        <serverdata>
+          <mappings>
+            <mapping local="C:/xampp/htdocs/Test" web="/Test" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
